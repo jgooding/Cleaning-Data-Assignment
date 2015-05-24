@@ -1,6 +1,6 @@
 #Codebook.md
 
-** Codebook for the Tidy.Txt data Set
+Codebook for the Tidy.Txt Data Set
 
 ## Data Source
 
@@ -27,14 +27,14 @@ These are from the source location above
 * activity_labeles.txt
 
 ###Variables
-* testX, testY, testSubjects, trainX, trainY and trainSubjects contain the data from the downloaded data sets
-* Test_Data, Train_Data merge the data sets in the first step
-* All_Data merges all the data sets together
-* features and activity lables contain the data in the last 2 files listed above
-* df_temp is a temporary data frame to add labels for the Subject and Activity variables in the merged data set
-* labels is the complete list of labels
-* All_Data_mean_std contains the data subset created for step 2
-* tidyData contains the final tidy data set created for step 5
+* `testX`, `testY`, `testSubjects`, `trainX`, `trainY` and `trainSubjects` contain the data from the downloaded data sets
+* `Test_Data`, `Train_Data` merge the data sets in the first step
+* `All_Data` merges all the data sets together
+* `features` and `activity` lables contain the data in the last 2 files listed above
+* `df_temp` is a temporary data frame to add labels for the Subject and Activity variables in the merged data set
+* `labels` is the complete list of labels
+* `All_Data_mean_std` contains the data subset created for step 2
+* `tidyData` contains the final tidy data set created for step 5
 
 ###Labels
 The following label changes have been made in the Tidy.txt Data Set from the original data labels provided
