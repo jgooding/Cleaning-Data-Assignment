@@ -1,5 +1,5 @@
 # README.md
-Assignment response for Getting and Cleaning Data Course
+Assignment response for the Getting and Cleaning Data Course
 
 # Overview
 **run_Analysis.R**  is the R code for the assignment
