@@ -4,7 +4,7 @@ Codebook for the Tidy.Txt Data Set
 
 ## Data Source
 
-The Tidt.Txt dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which was originally made available here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+The Tidy.Txt dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which was originally made available here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 The object of this assignment was to complete the following tasks
 
